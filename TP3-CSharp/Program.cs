@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using TP3_CSharp.Q1;
+
+internal class Program
+{
+    public static void Main()
+    {
+       
+
+    }
+}
